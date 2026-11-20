@@ -1,0 +1,18 @@
+Leite: 0.89€
+Bolachas: 1€
+Pão de forma: 1.49€
+Ovos: 2.49€
+Arroz: 1.39€
+Massa: 0.89€
+Sal: 1€
+Peito de frango: 6.99€
+Carne picada: 4.49€  
+Queijo fatiado: 2.29€
+Fiambre: 1.79€
+Iogurtes: 2.19€
+Manteiga: 2.09€
+Batatas: 2.49€
+Maçãs: 1.99€
+Água: 2.49€
+Cereais: 2.79€
+Marisco: 10.99€
